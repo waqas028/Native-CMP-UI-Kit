@@ -10,7 +10,7 @@ plugins {
 }
 
 group = "io.github.waqas028"
-version = "1.0.0"
+version = "1.0.1"
 
 kotlin {
     jvm()
@@ -39,11 +39,11 @@ kotlin {
 
     sourceSets {
         commonMain.dependencies {
-            implementation(compose.runtime)
-            implementation(compose.foundation)
-            implementation(compose.material3)
-            implementation(compose.ui)
-            implementation(compose.components.resources)
+            implementation(libs.runtime)
+            implementation(libs.foundation)
+            implementation(libs.material3)
+            implementation(libs.ui)
+            implementation(libs.components.resources)
         }
 
         androidMain.dependencies {
