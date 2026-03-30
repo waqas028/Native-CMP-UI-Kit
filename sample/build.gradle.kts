@@ -16,11 +16,11 @@ kotlin {
 }
 
 android {
-    namespace = "com.nativecmp.kit.sample"
+    namespace = "io.github.waqas028.nativecmp.sample"
     compileSdk = libs.versions.android.compileSdk.get().toInt()
     
     defaultConfig {
-        applicationId = "com.nativecmp.kit.sample"
+        applicationId = "io.github.waqas028.nativecmp.sample"
         minSdk = libs.versions.android.minSdk.get().toInt()
         targetSdk = libs.versions.android.compileSdk.get().toInt()
         versionCode = 1

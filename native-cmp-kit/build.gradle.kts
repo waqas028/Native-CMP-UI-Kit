@@ -14,8 +14,8 @@ version = "1.0.1"
 
 kotlin {
     jvm()
-    androidLibrary {
-        namespace = "com.nativecmp.kit"
+    android {
+        namespace = "io.github.waqas028.nativecmp"
         compileSdk = libs.versions.android.compileSdk.get().toInt()
         minSdk = libs.versions.android.minSdk.get().toInt()
 
