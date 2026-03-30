@@ -9,7 +9,7 @@ plugins {
     alias(libs.plugins.vanniktech.mavenPublish)
 }
 
-group = "com.nativecmp.kit"
+group = "io.github.waqas028"
 version = "1.0.0"
 
 kotlin {
