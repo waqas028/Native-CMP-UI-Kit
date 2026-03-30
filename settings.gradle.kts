@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Native-CMP-Kit"
+rootProject.name = "Native-CMP-UI-Kit"
 include(":native-cmp-kit")
 include(":sample")
