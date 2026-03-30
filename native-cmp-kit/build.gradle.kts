@@ -9,7 +9,7 @@ plugins {
     alias(libs.plugins.vanniktech.mavenPublish)
 }
 
-group = "com.native.cmp"
+group = "com.nativecmp.kit"
 version = "1.0.0"
 
 kotlin {
@@ -64,10 +64,10 @@ mavenPublishing {
     coordinates(group.toString(), "native-cmp-kit", version.toString())
 
     pom {
-        name = "Native-CMP-Kit"
-        description = "A Compose Multiplatform Kit for Android and iOS."
+        name = "Native-CMP-UI-Kit"
+        description = "NativeCMP is a Compose Multiplatform component library that provides a unified Compose API for platform-native Android and iOS UI components."
         inceptionYear = "2024"
-        url = "https://github.com/kotlin/multiplatform-library-template/"
+        url = "https://github.com/waqas028/Native-CMP-UI-Kit"
         licenses {
             license {
                 name = "Apache-2.0"
@@ -77,15 +77,16 @@ mavenPublishing {
         }
         developers {
             developer {
-                id = "waqas"
-                name = "Waqas"
-                url = "https://github.com/waqas"
+                id = "waqas028"
+                name = "Muhammad Waqas"
+                email = "waqaswaseem679@gmail.com"
+                url = "https://github.com/waqas028"
             }
         }
         scm {
-            url = "https://github.com/waqas/Native-CMP-kit"
-            connection = "scm:git:git://github.com/waqas/Native-CMP-kit.git"
-            developerConnection = "scm:git:ssh://github.com/waqas/Native-CMP-kit.git"
+            url = "https://github.com/waqas028/Native-CMP-UI-Kit"
+            connection = "scm:git:git://github.com/waqas028/Native-CMP-UI-Kit.git"
+            developerConnection = "scm:git:ssh://github.com/waqas028/Native-CMP-UI-Kit.git"
         }
     }
 }

@@ -1,19 +1,41 @@
-[![official project](http://jb.gg/badges/official.svg)](https://github.com/JetBrains#jetbrains-on-github)
+# Native-CMP-UI-Kit
 
-# Multiplatform library template
+**NativeCMP** is a Compose Multiplatform component library that provides a unified Compose API for platform-native Android and iOS UI components.
 
-## What is it?
+## Features
+- **Unified API**: Write once in Compose, get platform-native UI on Android and iOS.
+- **Platform Native**: 
+  - **Android**: Uses Material3 components.
+  - **iOS**: Uses modern `UIKit` components (`UIButtonConfiguration`, etc.) via `UIKitView`.
+- **Customizable**: Comprehensive parameters for colors, shapes, borders, and more.
+- **Lightweight**: Minimal overhead, utilizing the best interop practices.
 
-This repository contains a simple library project, intended to demonstrate a [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html) library that is deployable to [Maven Central](https://central.sonatype.com/).
+## Installation
 
-The library has only one function: generate the [Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_sequence) starting from platform-provided numbers. Also, it has a test for each platform just to be sure that tests run.
+### 1. Add JitPack Repository
+Add this to your `settings.gradle.kts` (or root `build.gradle.kts`):
+```kotlin
+repositories {
+    mavenCentral()
+    maven { url = uri("https://jitpack.io") }
+}
+```
 
-Note that no other actions or tools usually required for the library development are set up, such as [tracking of backwards compatibility](https://kotlinlang.org/docs/jvm-api-guidelines-backward-compatibility.html#tools-designed-to-enforce-backward-compatibility), explicit API mode, licensing, contribution guideline, code of conduct and others. You can find a guide for best practices for designing Kotlin libraries [here](https://kotlinlang.org/docs/api-guidelines-introduction.html).
+### 2. Add Dependency
+Add this to your common source set in `build.gradle.kts`:
+```kotlin
+commonMain.dependencies {
+    implementation("com.github.waqas028:Native-CMP-UI-Kit:1.0.0")
+}
+```
 
-## Guide
+## Supported Components (Phase 1)
+- **NativeButton**: Filled, Outlined, Text, Tonal, and Icon variants.
 
-Please find the detailed guide [here](https://www.jetbrains.com/help/kotlin-multiplatform-dev/multiplatform-publish-libraries.html).
+## Developer Info
+- **Name**: Muhammad Waqas
+- **GitHub**: [@waqas028](https://github.com/waqas028)
+- **Email**: [waqaswaseem679@gmail.com](mailto:waqaswaseem679@gmail.com)
 
-# Other resources
-* [Publishing via the Central Portal](https://central.sonatype.org/publish-ea/publish-ea-guide/)
-* [Gradle Maven Publish Plugin \- Publishing to Maven Central](https://vanniktech.github.io/gradle-maven-publish-plugin/central/)
+## License
+Apache License 2.0
