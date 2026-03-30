@@ -25,8 +25,10 @@ repositories {
 Add this to your common source set in `build.gradle.kts`:
 ```kotlin
 commonMain.dependencies {
-    implementation("com.github.waqas028:Native-CMP-UI-Kit:1.0.0")
+    implementation("com.github.waqas028:Native-CMP-UI-Kit:native-cmp-kit:1.0.0")
 }
+```
+*Note: If `1.0.0` doesn't resolve, try using the commit hash or a specific tag.*
 ```
 
 ## Supported Components (Phase 1)
