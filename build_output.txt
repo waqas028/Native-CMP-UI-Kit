@@ -1,0 +1,225 @@
+Reusing configuration cache.
+> Task :native-cmp-kit:convertXmlValueResourcesForCommonMain NO-SOURCE
+> Task :native-cmp-kit:kmpPartiallyResolvedDependenciesChecker
+> Task :native-cmp-kit:copyNonXmlValueResourcesForCommonMain NO-SOURCE
+> Task :native-cmp-kit:generateProjectStructureMetadata UP-TO-DATE
+> Task :native-cmp-kit:metadataCommonMainProcessResources NO-SOURCE
+> Task :native-cmp-kit:generateExpectResourceCollectorsForCommonMain UP-TO-DATE
+> Task :native-cmp-kit:generateComposeResClass UP-TO-DATE
+> Task :native-cmp-kit:androidPreBuild UP-TO-DATE
+> Task :native-cmp-kit:convertXmlValueResourcesForAndroidMain NO-SOURCE
+> Task :native-cmp-kit:prepareComposeResourcesTaskForCommonMain NO-SOURCE
+> Task :native-cmp-kit:copyNonXmlValueResourcesForAndroidMain NO-SOURCE
+> Task :native-cmp-kit:preAndroidMainBuild UP-TO-DATE
+> Task :native-cmp-kit:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :native-cmp-kit:generateResourceAccessorsForCommonMain NO-SOURCE
+> Task :native-cmp-kit:prepareLintJarForPublish UP-TO-DATE
+> Task :native-cmp-kit:generateAndroidMainEmptyResourceFiles UP-TO-DATE
+> Task :native-cmp-kit:prepareComposeResourcesTaskForAndroidMain NO-SOURCE
+> Task :native-cmp-kit:mergeAndroidMainJniLibFolders UP-TO-DATE
+> Task :native-cmp-kit:processAndroidMainManifest UP-TO-DATE
+> Task :native-cmp-kit:generateResourceAccessorsForAndroidMain NO-SOURCE
+> Task :native-cmp-kit:prepareAndroidMainArtProfile UP-TO-DATE
+> Task :native-cmp-kit:generateActualResourceCollectorsForAndroidMain UP-TO-DATE
+> Task :native-cmp-kit:javaPreCompileAndroidMain UP-TO-DATE
+> Task :native-cmp-kit:mergeAndroidMainNativeLibs NO-SOURCE
+> Task :native-cmp-kit:commonizeNativeDistribution UP-TO-DATE
+> Task :native-cmp-kit:writeAndroidMainAarMetadata UP-TO-DATE
+> Task :native-cmp-kit:convertXmlValueResourcesForNativeMain NO-SOURCE
+> Task :native-cmp-kit:assembleAndroidMainResources UP-TO-DATE
+> Task :native-cmp-kit:copyNonXmlValueResourcesForNativeMain NO-SOURCE
+> Task :native-cmp-kit:copyAndroidMainJniLibsProjectOnly UP-TO-DATE
+> Task :native-cmp-kit:prepareComposeResourcesTaskForNativeMain NO-SOURCE
+> Task :native-cmp-kit:copyNonXmlValueResourcesForAppleMain NO-SOURCE
+> Task :native-cmp-kit:generateResourceAccessorsForNativeMain NO-SOURCE
+> Task :native-cmp-kit:metadataNativeMainProcessResources NO-SOURCE
+> Task :native-cmp-kit:convertXmlValueResourcesForIosMain NO-SOURCE
+> Task :native-cmp-kit:metadataAppleMainProcessResources NO-SOURCE
+> Task :native-cmp-kit:convertXmlValueResourcesForIosArm64Main NO-SOURCE
+> Task :native-cmp-kit:copyNonXmlValueResourcesForIosMain NO-SOURCE
+> Task :native-cmp-kit:copyNonXmlValueResourcesForIosArm64Main NO-SOURCE
+> Task :native-cmp-kit:convertXmlValueResourcesForAppleMain NO-SOURCE
+> Task :native-cmp-kit:prepareComposeResourcesTaskForIosMain NO-SOURCE
+> Task :native-cmp-kit:prepareComposeResourcesTaskForIosArm64Main NO-SOURCE
+> Task :native-cmp-kit:generateResourceAccessorsForIosMain NO-SOURCE
+> Task :native-cmp-kit:generateResourceAccessorsForIosArm64Main NO-SOURCE
+> Task :native-cmp-kit:prepareComposeResourcesTaskForAppleMain NO-SOURCE
+> Task :native-cmp-kit:convertXmlValueResourcesForIosX64Main NO-SOURCE
+> Task :native-cmp-kit:convertXmlValueResourcesForIosSimulatorArm64Main NO-SOURCE
+> Task :native-cmp-kit:copyNonXmlValueResourcesForIosX64Main NO-SOURCE
+> Task :native-cmp-kit:prepareComposeResourcesTaskForIosX64Main NO-SOURCE
+> Task :native-cmp-kit:generateResourceAccessorsForIosX64Main NO-SOURCE
+> Task :native-cmp-kit:copyNonXmlValueResourcesForIosSimulatorArm64Main NO-SOURCE
+> Task :native-cmp-kit:generateResourceAccessorsForAppleMain NO-SOURCE
+> Task :native-cmp-kit:prepareComposeResourcesTaskForIosSimulatorArm64Main NO-SOURCE
+> Task :native-cmp-kit:generateActualResourceCollectorsForIosArm64Main UP-TO-DATE
+> Task :native-cmp-kit:generateResourceAccessorsForIosSimulatorArm64Main NO-SOURCE
+> Task :native-cmp-kit:convertXmlValueResourcesForAppleTest NO-SOURCE
+> Task :native-cmp-kit:transformNativeMainCInteropDependenciesMetadata UP-TO-DATE
+> Task :native-cmp-kit:generateActualResourceCollectorsForIosSimulatorArm64Main UP-TO-DATE
+> Task :native-cmp-kit:transformCommonMainDependenciesMetadata UP-TO-DATE
+> Task :native-cmp-kit:checkAndroidMainAarMetadata UP-TO-DATE
+> Task :native-cmp-kit:generateActualResourceCollectorsForIosX64Main UP-TO-DATE
+> Task :native-cmp-kit:transformNativeMainDependenciesMetadata UP-TO-DATE
+> Task :native-cmp-kit:extractAndroidMainAnnotations UP-TO-DATE
+> Task :native-cmp-kit:transformAppleMainDependenciesMetadata UP-TO-DATE
+> Task :native-cmp-kit:compileCommonMainKotlinMetadata UP-TO-DATE
+> Task :native-cmp-kit:metadataCommonMainClasses UP-TO-DATE
+> Task :native-cmp-kit:transformAppleMainCInteropDependenciesMetadata UP-TO-DATE
+> Task :native-cmp-kit:allMetadataJar UP-TO-DATE
+> Task :native-cmp-kit:copyNonXmlValueResourcesForAppleTest NO-SOURCE
+> Task :native-cmp-kit:prepareComposeResourcesTaskForAppleTest NO-SOURCE
+> Task :native-cmp-kit:generateResourceAccessorsForAppleTest NO-SOURCE
+> Task :native-cmp-kit:transformIosMainCInteropDependenciesMetadata UP-TO-DATE
+> Task :native-cmp-kit:copyNonXmlValueResourcesForCommonTest NO-SOURCE
+> Task :native-cmp-kit:convertXmlValueResourcesForIosArm64Test NO-SOURCE
+> Task :native-cmp-kit:copyNonXmlValueResourcesForIosArm64Test NO-SOURCE
+> Task :native-cmp-kit:transformIosMainDependenciesMetadata UP-TO-DATE
+> Task :native-cmp-kit:prepareComposeResourcesTaskForIosArm64Test NO-SOURCE
+> Task :native-cmp-kit:compileNativeMainKotlinMetadata NO-SOURCE
+> Task :native-cmp-kit:generateResourceAccessorsForIosArm64Test NO-SOURCE
+> Task :native-cmp-kit:metadataNativeMainClasses UP-TO-DATE
+> Task :native-cmp-kit:convertXmlValueResourcesForCommonTest NO-SOURCE
+> Task :native-cmp-kit:convertXmlValueResourcesForIosTest NO-SOURCE
+> Task :native-cmp-kit:convertXmlValueResourcesForNativeTest NO-SOURCE
+> Task :native-cmp-kit:prepareComposeResourcesTaskForCommonTest NO-SOURCE
+> Task :native-cmp-kit:copyNonXmlValueResourcesForNativeTest NO-SOURCE
+> Task :native-cmp-kit:compileAppleMainKotlinMetadata NO-SOURCE
+> Task :native-cmp-kit:metadataAppleMainClasses UP-TO-DATE
+> Task :native-cmp-kit:copyNonXmlValueResourcesForIosTest NO-SOURCE
+> Task :native-cmp-kit:generateResourceAccessorsForCommonTest NO-SOURCE
+> Task :native-cmp-kit:iosArm64ResolveResourcesFromDependencies UP-TO-DATE
+> Task :native-cmp-kit:prepareComposeResourcesTaskForNativeTest NO-SOURCE
+> Task :native-cmp-kit:generateResourceAccessorsForNativeTest NO-SOURCE
+> Task :native-cmp-kit:prepareComposeResourcesTaskForIosTest NO-SOURCE
+> Task :native-cmp-kit:generateResourceAccessorsForIosTest NO-SOURCE
+> Task :native-cmp-kit:convertXmlValueResourcesForIosSimulatorArm64Test NO-SOURCE
+> Task :native-cmp-kit:copyNonXmlValueResourcesForIosSimulatorArm64Test NO-SOURCE
+> Task :native-cmp-kit:assembleIosArm64MainResources UP-TO-DATE
+> Task :native-cmp-kit:compileAndroidMain UP-TO-DATE
+> Task :native-cmp-kit:prepareComposeResourcesTaskForIosSimulatorArm64Test NO-SOURCE
+> Task :native-cmp-kit:iosSimulatorArm64ResolveResourcesFromDependencies UP-TO-DATE
+> Task :native-cmp-kit:iosArm64ResolveSelfResourcesCopyHierarchicalMultiplatformResources UP-TO-DATE
+> Task :native-cmp-kit:generateResourceAccessorsForIosSimulatorArm64Test NO-SOURCE
+> Task :native-cmp-kit:assembleIosSimulatorArm64MainResources UP-TO-DATE
+> Task :native-cmp-kit:iosSimulatorArm64ResolveSelfResourcesCopyHierarchicalMultiplatformResources UP-TO-DATE
+> Task :native-cmp-kit:iosArm64AggregateResources UP-TO-DATE
+> Task :native-cmp-kit:iosSimulatorArm64AggregateResources UP-TO-DATE
+> Task :native-cmp-kit:convertXmlValueResourcesForIosX64Test NO-SOURCE
+> Task :native-cmp-kit:compileAndroidMainJavaWithJavac NO-SOURCE
+> Task :native-cmp-kit:copyNonXmlValueResourcesForIosX64Test NO-SOURCE
+> Task :native-cmp-kit:iosArm64ProcessResources UP-TO-DATE
+> Task :native-cmp-kit:iosSimulatorArm64ProcessResources UP-TO-DATE
+> Task :native-cmp-kit:iosX64ResolveResourcesFromDependencies UP-TO-DATE
+> Task :native-cmp-kit:metadataIosMainProcessResources NO-SOURCE
+> Task :native-cmp-kit:prepareComposeResourcesTaskForIosX64Test NO-SOURCE
+> Task :native-cmp-kit:assembleIosX64MainResources UP-TO-DATE
+> Task :native-cmp-kit:convertXmlValueResourcesForJvmMain NO-SOURCE
+> Task :native-cmp-kit:generateResourceAccessorsForIosX64Test NO-SOURCE
+> Task :native-cmp-kit:copyNonXmlValueResourcesForJvmMain NO-SOURCE
+> Task :native-cmp-kit:iosX64ResolveSelfResourcesCopyHierarchicalMultiplatformResources UP-TO-DATE
+> Task :native-cmp-kit:iosX64AggregateResources UP-TO-DATE
+> Task :native-cmp-kit:prepareComposeResourcesTaskForJvmMain NO-SOURCE
+> Task :native-cmp-kit:iosX64ProcessResources UP-TO-DATE
+> Task :native-cmp-kit:generateResourceAccessorsForJvmMain NO-SOURCE
+> Task :native-cmp-kit:assembleJvmMainResources UP-TO-DATE
+> Task :native-cmp-kit:generateActualResourceCollectorsForJvmMain UP-TO-DATE
+> Task :native-cmp-kit:jvmProcessResources UP-TO-DATE
+> Task :native-cmp-kit:processJvmMainResources SKIPPED
+> Task :native-cmp-kit:processAndroidMainJavaRes
+> Task :native-cmp-kit:compileKotlinIosSimulatorArm64 UP-TO-DATE
+> Task :native-cmp-kit:iosSimulatorArm64MainKlibrary UP-TO-DATE
+> Task :native-cmp-kit:compileKotlinIosX64 UP-TO-DATE
+> Task :native-cmp-kit:compileKotlinIosArm64 UP-TO-DATE
+> Task :native-cmp-kit:iosX64MainKlibrary UP-TO-DATE
+> Task :native-cmp-kit:iosArm64MainKlibrary UP-TO-DATE
+> Task :native-cmp-kit:mergeAndroidMainJavaResource
+> Task :native-cmp-kit:syncAndroidMainLibJars
+> Task :native-cmp-kit:bundleAndroidMainAar
+> Task :native-cmp-kit:assembleAndroidMain
+
+> Task :native-cmp-kit:compileKotlinJvm FAILED
+e: file:///home/waqas/AndroidStudioProjects/Native-CMP-kit/native-cmp-kit/src/jvmMain/kotlin/fibiprops.jvm.kt:3:12 'public final actual val firstElement: Int' has no corresponding expected declaration
+e: file:///home/waqas/AndroidStudioProjects/Native-CMP-kit/native-cmp-kit/src/jvmMain/kotlin/fibiprops.jvm.kt:4:12 'public final actual val secondElement: Int' has no corresponding expected declaration
+
+> Task :native-cmp-kit:compileTestKotlinIosX64 FAILED
+e: file:///home/waqas/AndroidStudioProjects/Native-CMP-kit/native-cmp-kit/src/commonTest/kotlin/FibiTest.kt:10:9 Cannot infer type for type parameter 'T'. Specify it explicitly.
+e: file:///home/waqas/AndroidStudioProjects/Native-CMP-kit/native-cmp-kit/src/commonTest/kotlin/FibiTest.kt:10:22 Unresolved reference 'firstElement'.
+e: file:///home/waqas/AndroidStudioProjects/Native-CMP-kit/native-cmp-kit/src/commonTest/kotlin/FibiTest.kt:10:37 Unresolved reference 'secondElement'.
+e: file:///home/waqas/AndroidStudioProjects/Native-CMP-kit/native-cmp-kit/src/commonTest/kotlin/FibiTest.kt:10:52 Unresolved reference 'generateFibi'.
+e: file:///home/waqas/AndroidStudioProjects/Native-CMP-kit/native-cmp-kit/src/iosTest/kotlin/IosFibiTest.kt:10:25 Unresolved reference 'generateFibi'.
+
+> Task :native-cmp-kit:compileTestKotlinIosArm64 FAILED
+e: file:///home/waqas/AndroidStudioProjects/Native-CMP-kit/native-cmp-kit/src/commonTest/kotlin/FibiTest.kt:10:9 Cannot infer type for type parameter 'T'. Specify it explicitly.
+e: file:///home/waqas/AndroidStudioProjects/Native-CMP-kit/native-cmp-kit/src/commonTest/kotlin/FibiTest.kt:10:22 Unresolved reference 'firstElement'.
+e: file:///home/waqas/AndroidStudioProjects/Native-CMP-kit/native-cmp-kit/src/commonTest/kotlin/FibiTest.kt:10:37 Unresolved reference 'secondElement'.
+e: file:///home/waqas/AndroidStudioProjects/Native-CMP-kit/native-cmp-kit/src/commonTest/kotlin/FibiTest.kt:10:52 Unresolved reference 'generateFibi'.
+e: file:///home/waqas/AndroidStudioProjects/Native-CMP-kit/native-cmp-kit/src/iosTest/kotlin/IosFibiTest.kt:10:25 Unresolved reference 'generateFibi'.
+
+> Task :native-cmp-kit:compileTestKotlinIosSimulatorArm64 FAILED
+e: file:///home/waqas/AndroidStudioProjects/Native-CMP-kit/native-cmp-kit/src/commonTest/kotlin/FibiTest.kt:10:9 Cannot infer type for type parameter 'T'. Specify it explicitly.
+e: file:///home/waqas/AndroidStudioProjects/Native-CMP-kit/native-cmp-kit/src/commonTest/kotlin/FibiTest.kt:10:22 Unresolved reference 'firstElement'.
+e: file:///home/waqas/AndroidStudioProjects/Native-CMP-kit/native-cmp-kit/src/commonTest/kotlin/FibiTest.kt:10:37 Unresolved reference 'secondElement'.
+e: file:///home/waqas/AndroidStudioProjects/Native-CMP-kit/native-cmp-kit/src/commonTest/kotlin/FibiTest.kt:10:52 Unresolved reference 'generateFibi'.
+e: file:///home/waqas/AndroidStudioProjects/Native-CMP-kit/native-cmp-kit/src/iosTest/kotlin/IosFibiTest.kt:10:25 Unresolved reference 'generateFibi'.
+
+> Task :native-cmp-kit:compileIosMainKotlinMetadata
+
+FAILURE: Build completed with 4 failures.
+
+1: Task failed with an exception.
+-----------
+* What went wrong:
+Execution failed for task ':native-cmp-kit:compileKotlinJvm'.
+> A failure occurred while executing org.jetbrains.kotlin.compilerRunner.GradleCompilerRunnerWithWorkers$GradleKotlinCompilerWorkAction
+   > Compilation error. See log for more details
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+==============================================================================
+
+2: Task failed with an exception.
+-----------
+* What went wrong:
+Execution failed for task ':native-cmp-kit:compileTestKotlinIosArm64'.
+> Compilation finished with errors
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+==============================================================================
+
+3: Task failed with an exception.
+-----------
+* What went wrong:
+Execution failed for task ':native-cmp-kit:compileTestKotlinIosSimulatorArm64'.
+> Compilation finished with errors
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+==============================================================================
+
+4: Task failed with an exception.
+-----------
+* What went wrong:
+Execution failed for task ':native-cmp-kit:compileTestKotlinIosX64'.
+> Compilation finished with errors
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+==============================================================================
+
+BUILD FAILED in 2s
+60 actionable tasks: 10 executed, 50 up-to-date
+Configuration cache entry reused.
