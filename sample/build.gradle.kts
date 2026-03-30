@@ -54,13 +54,13 @@ kotlin {
     sourceSets {
         commonMain.dependencies {
             implementation(project(":native-cmp-kit"))
-            implementation(compose.runtime)
-            implementation(compose.foundation)
-            implementation(compose.material)
-            implementation(compose.material3)
-            implementation(compose.materialIconsExtended)
-            implementation(compose.ui)
-            implementation(compose.components.resources)
+            implementation(libs.runtime)
+            implementation(libs.foundation)
+            implementation(libs.material3)
+            implementation(libs.ui)
+            implementation(libs.components.resources)
+            implementation(libs.ui.tooling.preview)
+            implementation(libs.material.icons.extended)
         }
         androidMain.dependencies {
             implementation(libs.androidx.activity.compose)

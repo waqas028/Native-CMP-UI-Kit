@@ -5,10 +5,25 @@ compose-multiplatform = "1.10.3"
 android-minSdk = "24"
 android-compileSdk = "36"
 vanniktechMavenPublish = "0.36.0"
+componentsResources = "1.10.3"
+foundation = "1.10.3"
+runtime = "1.10.3"
+ui = "1.10.3"
+uiToolingPreview = "1.10.3"
+materialIconsExtended = "1.7.3"
+material3 = "1.9.0"
 
 [libraries]
 kotlin-test = { module = "org.jetbrains.kotlin:kotlin-test", version.ref = "kotlin" }
-androidx-activity-compose = { module = "androidx.activity:activity-compose", version = "1.9.3" }
+androidx-activity-compose = { module = "androidx.activity:activity-compose", version = "1.13.0" }
+components-resources = { module = "org.jetbrains.compose.components:components-resources", version.ref = "componentsResources" }
+foundation = { module = "org.jetbrains.compose.foundation:foundation", version.ref = "foundation" }
+runtime = { module = "org.jetbrains.compose.runtime:runtime", version.ref = "runtime" }
+ui = { module = "org.jetbrains.compose.ui:ui", version.ref = "ui" }
+ui-tooling = { module = "org.jetbrains.compose.ui:ui-tooling", version.ref = "uiToolingPreview" }
+ui-tooling-preview = { module = "org.jetbrains.compose.ui:ui-tooling-preview", version.ref = "uiToolingPreview" }
+material3 = { module = "org.jetbrains.compose.material3:material3", version.ref = "material3" }
+material-icons-extended = { module = "org.jetbrains.compose.material:material-icons-extended", version.ref = "materialIconsExtended" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
